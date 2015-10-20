@@ -1,8 +1,13 @@
+// Copyright Professor Jae Lee
+// Columbia University, September 2015
+
 #include <stdio.h>
 #include <stdlib.h>
 
 #define N 10
 int A[N];
+
+
 
 // Recursive Selection Sort
 void rselsort(int i, int n)
